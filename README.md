@@ -114,6 +114,12 @@ pip install -r requirements.txt
 
 ---
 
+![WhatsApp Image 2025-05-03 at 18 51 23_fc25f49c](https://github.com/user-attachments/assets/716455f0-7d69-450f-8e67-d24a21ebcae5)
+
+
+
+
+![image](https://github.com/user-attachments/assets/ff7f2dc5-8ea7-45fe-9122-6270326e33f0)
 ## 📈 Quantitative Results
 
 | Denoising Method | PSNR ↑ | SSIM ↑ | MSE ↓ |
@@ -149,6 +155,4 @@ Biomedical Engineer & Machine Learning Engineer
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 
-
-![image](https://github.com/user-attachments/assets/ff7f2dc5-8ea7-45fe-9122-6270326e33f0)
 
