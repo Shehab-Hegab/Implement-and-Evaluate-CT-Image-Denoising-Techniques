@@ -64,7 +64,7 @@ More results are available in the `results/` folder.
 
 We used publicly available CT image datasets suitable for image denoising and diagnostic imaging research:
 
-* 🧪 [Kaggle: CT Scans (COVID)](https://www.kaggle.com/datasets/andrewmvd/ct-scan-images-for-covid)
+* 🧪 [Kaggle: CT Scans (COVID)](https://www.kaggle.com/datasets/andrewmvd/covid19-ct-scans/data)
 * 🏥 [The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/)
 * 📁 Custom images (from hospital archives or academic sources) placed in `data/`
 
